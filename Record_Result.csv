@@ -1,0 +1,127 @@
+Fri Jan  8 10:41:14 2021,Search String:,AGILIS-15863
+Filename,Row,Column,Find String
+HOW46149 PM Watchdog.xlsm,12,2,['AGILIS-15863'],2020-08-25 00:00:00
+HOW46149 SBSC Watchdog.xlsm,12,2,['AGILIS-15863'],2020-08-25 00:00:00
+HOW46149 SLC Watchdog.xlsm,12,2,['AGILIS-15863'],2020-05-19 00:00:00
+HOW46149 UC Watchdog.xlsm,12,2,['AGILIS-15863'],2020-08-25 00:00:00
+........................   Found Wanted String    ..............................
+Wed Jan 13 14:09:53 2021,Search String:,WHAT70320|WHAT70321WHAT70322|WHAT70323|WHAT70345|WHAT70324|WHAT39877|WHAT39878|WHAT39879|WHAT39880|WHAT70325WHAT70326|WHAT70328|WHAT70329|WHAT70330|WHAT70331|WHAT70332|WHAT70333|WHAT70334
+Filename,Row,Column,Find String
+WHAT39879 ECO Mode - Parallel system-Alt10.xlsm,10,2,['WHAT39879'],2020-03-26 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt2.xlsm,10,2,['WHAT39879'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt3.xlsm,10,2,['WHAT39879'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt4.xlsm,10,2,['WHAT39879'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt5a.xlsm,10,2,['WHAT39879'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt5b.xlsm,10,2,['WHAT39879'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt6.xlsm,10,2,['WHAT39879'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt7.xlsm,10,2,['WHAT39879'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt8.xlsm,10,2,['WHAT39879'],2020-03-26 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt9.xlsm,10,2,['WHAT39879'],2020-03-26 00:00:00
+WHAT39879 ECO Mode - Parallel system-Main and Alt1.xlsm,8,2,['WHAT39879'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Main and Alt1.xlsm,10,2,['WHAT39879'],2020-03-25 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt10.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt11.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt2.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt3.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt4.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt5a.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt5b.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt6.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt7.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt8.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt9.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Main and Alt1.xlsm,10,2,['WHAT39880'],2020-03-26 00:00:00
+WHAT39877 ECO Behavior Scenario-1 Remove Mains2.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-10 Mains1 out of tolerance Mains2 becomes within tolerance.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-11 EPO activiated.xlsm,10,2,['WHAT39877'],2019-11-21 00:00:00
+WHAT39877 ECO Behavior Scenario-2 Disable ECO Mode.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-3 On button pushed.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-4 Scheduled on button pushed.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-5 Sever fault.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-6 overload.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-7 Mains1 out of tolerance Mains2 ok.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-8 Severe fault no longer present.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-9 Mains2 out of Tolerance no longer present.xlsm,10,2,['WHAT39877'],2019-09-27 00:00:00
+WHAT39877 Special requirements prevent UPS from entering ECO mode.xlsm,10,2,['WHAT39877'],2019-11-25 00:00:00
+WHAT39877 Special requirements prevent UPS from exiting ECO mode.xlsm,10,2,['WHAT39877'],2019-11-25 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-1 Remove Mains2.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-11 Ouptut short circuit detected.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-12 EPO activiated.xlsm,10,2,['WHAT39878'],2019-11-21 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-2 Disable ECOnversion Mode.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-3 On button pushed.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-4 Scheduled on button pushed.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-5 Server fault.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-6 Overload.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-7 Mains1 out of tolerance Mains2 ok.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-8 Severe fault no longer present.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior Scenario-9 Mains2 out of Tolerance no longer present.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 ECOnversion Behavior10 Mains1 out of tolerance Mains2 becomes within tolerance.xlsm,10,2,['WHAT39878'],2019-09-27 00:00:00
+WHAT39878 Special requirements prevent UPS from entering ECOnversion mode.xlsm,10,2,['WHAT39878'],2019-11-25 00:00:00
+WHAT39878 Special requirements prevent UPS from exiting ECOnversion mode.xlsm,10,2,['WHAT39878'],2019-11-25 00:00:00
+........................   Found Wanted String    ..............................
+Wed Jan 13 15:36:28 2021,Search String:,WHAT39885|ECO Mode / ECOnversion settings changed. Please confirm
+Filename,Row,Column,Find String
+WHAT39879 ECO Mode - Parallel system-Main and Alt1.xlsm,10,2,['WHAT39885'],2021-01-13 00:00:00
+WHAT39879_ECO_Behavior_Parallel_Alt10.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39879_ECO_Behavior_Parallel_Alt3.xlsm,10,2,['WHAT39885'],2020-03-25 00:00:00
+WHAT39879_ECO_Behavior_Parallel_Alt8.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39879_ECO_Behavior_Parallel_Alt9.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Main and Alt1.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880_ECOnversion_Behavior_Parallel_Alt10.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880_ECOnversion_Behavior_Parallel_Alt3.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880_ECOnversion_Behavior_Parallel_Alt8.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880_ECOnversion_Behavior_Parallel_Alt9.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt10.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt2.xlsm,10,2,['WHAT39885'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt3.xlsm,10,2,['WHAT39885'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt4.xlsm,10,2,['WHAT39885'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt5a.xlsm,10,2,['WHAT39885'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt5b.xlsm,10,2,['WHAT39885'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt6.xlsm,10,2,['WHAT39885'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt7.xlsm,10,2,['WHAT39885'],2020-03-25 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt8.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39879 ECO Mode - Parallel system-Alt9.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39879 ECO Mode - Parallel system-Main and Alt1.xlsm,10,2,['WHAT39885'],2020-03-25 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt10.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt11.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt2.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt3.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt4.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt5a.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt5b.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt6.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt7.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt8.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Alt9.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39880 ECOnversion Mode - Parallel system-Main and Alt1.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39881 Setting syn in parallel for high efficiency.xlsm,10,2,['WHAT39885'],2020-03-26 00:00:00
+WHAT39877 ECO Behavior Scenario-4 Scheduled on button pushed.xlsm,10,2,['WHAT39885'],2019-09-27 00:00:00
+WHAT39877 ECO Behavior Scenario-4 Scheduled on button pushed.xlsm,18,3,['ECO Mode / ECOnversion settings changed. Please confirm'],2019-09-27 00:00:00
+........................   Found Wanted String    ..............................
+Thu Jan 21 10:37:27 2021,Search String:,AGILIS-15347
+Filename,Row,Column,Find String
+................................    NO Found    .............................
+Thu Jan 21 10:38:02 2021,Search String:,AGILIS-15347
+Filename,Row,Column,Find String
+WHAT60190_UC_ControllerBoxEnableSwitch_Sparepart.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60190_UC_ControllerBoxEnableSwitch_States.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60192_UC_ControllerBoxEnableSwitch_InverterButton.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60194_UC_ControllerBoxDisabled_Alt1.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60194_UC_ControllerBoxDisabled_Alt2.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60194_UC_ControllerBoxDisabled_Alt3.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60194_UC_ControllerBoxDisabled_Alt4.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60194_UC_ControllerBoxDisabled_Alt6.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60194_UC_ControllerBoxDisabled_Alt7.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60194_UC_ControllerBoxDisabled_Main.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60195_UC_ControllerBoxEnabled_Alt1.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60195_UC_ControllerBoxEnabled_Alt2.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60195_UC_ControllerBoxEnabled_Alt3.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+WHAT60195_UC_ControllerBoxEnabled_Main.xlsm,12,2,['AGILIS-15347'],2020-11-30 00:00:00
+........................   Found Wanted String    ..............................
+Fri Jan 22 15:21:03 2021,Search String:,Batteries are resting
+Filename,Row,Column,Find String
+WHAT38625 Cyclic charging mode - settings.xlsm,37,3,['batteries are resting'],2019-07-18 00:00:00
+WHAT38625 Cyclic charging mode - settings.xlsm,43,3,['batteries are resting'],2019-07-18 00:00:00
+WHAT38625 Cyclic charging mode.xlsm,39,3,['batteries are resting'],2019-07-18 00:00:00
+WHAT38625 Cyclic charging mode.xlsm,45,3,['batteries are resting'],2019-07-18 00:00:00
+........................   Found Wanted String    ..............................
